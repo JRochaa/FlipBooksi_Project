@@ -1,4 +1,4 @@
-# A flipbooksi Flet app
+# A Flipbooksi Flet app
 
 Design of a study/memorization app using the FlipBook method. Extension activity for college.
 
